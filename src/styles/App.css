@@ -1,12 +1,18 @@
-h1 {
-    color: #27aedb;
+/* src/App.css */
+.ns-wrapper {
     text-align: center;
-    }
-    
-
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
+    margin-top: 50px;
+  }
+  
+  .ns-wrapper div {
+    margin-bottom: 20px;
+  }
+  
+  .ns-wrapper h1 {
+    font-size: 24px;
+  }
+  
+  .ns-wrapper h6 {
+    font-size: 18px;
+    color: gray;
+  }
